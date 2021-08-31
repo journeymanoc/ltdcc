@@ -1890,20 +1890,3 @@ def main():
     return union(parts)
 
 main()
-
-# intersect([
-#     sphere(100),
-#     get_connection_cut(False, False),
-# ])
-
-# make_lock_chamber()
-
-# intersect([
-#     half_space(Vec3(0, 0, 1), Vec3(0, 0, 1)),
-#     half_space(Vec3(0, 0, -1), Vec3(0, 0, 0)),
-#     (
-#         libfive.stdlib.text("TEXT")
-#             .transform(scale(10))
-#     ),
-# ])
-

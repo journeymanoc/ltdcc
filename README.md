@@ -1,6 +1,8 @@
 # Long-Term Discreet Chastity Cage (LTDCC)
 ## A parametric chastity cage model generator by [journeymanoc](https://github.com/journeymanoc)
 
+![Preview](preview.png)
+
 Design inspired by [heyspacebuck's parametric model](https://github.com/heyspacebuck/parametric-chastity-cage).
 
 ## Description
@@ -25,11 +27,11 @@ An **optional separator** may be used to keep the device centered.
 ## Usage guide
 
 1. Install [libfive Studio](https://libfive.com/download/#studio), a tool for displaying libfive models.
-2. Download the latest release of this model [here](/releases/latest).
+2. Download the latest release of this model [here](https://github.com/journeymanoc/ltdcc/releases/latest).
 3. Launch libfive Studio.
-4. `File` -> `Open as viewer…`, then select `main.py` from the downloaded archive.
+4. `File` → `Open as viewer…`, then select `main.py` from the downloaded archive.
 5. Adjust the parameters as needed and wait for the model to finish rendering. Rendering is indicated by a spinning loading indicator in the bottom right.
-6. Once the loading indicator disappears, export the model using `File` -> `Export STL…`.
+6. Once the loading indicator disappears, export the model using `File` → `Export STL…`.
 7. Open the STL file in your preferred slicer software for 3D printing and print the model.
 8. Once 3D printed, make sure to post-process the result by sanding and a coat of epoxy resin. In spacebuck's words, **raw 3D prints do not make good sex toys**.
 9. Have fun!
